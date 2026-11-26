@@ -203,34 +203,6 @@ Based on the analysis, the project proposes the following actions:
     groups, product preferences, and observed shipping and purchasing
     patterns.
 
-## Repository Structure
-
-A suggested structure for organizing the project files:
-
-``` text
-customer-shopping-behavior-analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── customer_shopping_behavior_analysis.ipynb
-│
-├── sql/
-│   └── customer_behavior_analysis.sql
-│
-├── dashboard/
-│   └── customer_behavior_dashboard.pbix
-│
-├── reports/
-│   └── Customer Shopping Behavior Analysis.pdf
-│
-└── README.md
-```
-
-*Update the filenames and folders above to match the files actually
-included in your repository.*
-
 ## How to Explore the Project
 
 1.  Clone or download this repository.
